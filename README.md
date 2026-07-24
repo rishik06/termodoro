@@ -8,10 +8,6 @@ A minimalist terminal Pomodoro timer for focused work sessio
 - ✅ 6 visual animations to choose from
 - ✅ 6 sound options (including silent)
 - ✅ Config presets (Classic, Short, Long, Custom)
-- ✅ Desktop notifications
-- ✅ Stats dashboard (focus streaks, logs, 7-day graph)
-
----
 
 ## Installation
 
