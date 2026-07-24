@@ -1,8 +1,7 @@
 <img src="./assets/logo.png" width="100" />
 
 # Termodoro
-A minimalist terminal Pomodoro timer for focused work sessions.
-
+A minimalist terminal Pomodoro timer for focused work sessio
 
 ### Features
 - ✅ Pomodoro timer with focus + break sessions
