@@ -9,8 +9,6 @@ A minimalist terminal Pomodoro timer for focused work sessio
 - ✅ 6 sound options (including silent)
 - ✅ Config presets (Classic, Short, Long, Custom)
 - ✅ Desktop notifications
-- ✅ Todo list (priority levels P1–P3, persistent)
-- ✅ In-session notes scratchpad
 - ✅ Stats dashboard (focus streaks, logs, 7-day graph)
 
 ---
