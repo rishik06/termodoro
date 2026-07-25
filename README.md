@@ -6,8 +6,6 @@ A minimalist terminal Pomodoro timer for focused work sessio
 ### Features
 - ✅ Pomodoro timer with focus + break sessions
 - ✅ 6 visual animations to choose from
-- ✅ 6 sound options (including silent)
-## Installation
 
 
 brew install --cask hrushik98/tap/termodoro
