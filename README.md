@@ -9,10 +9,9 @@ A minimalist terminal Pomodoro timer for focused work sessio
 - ✅ 6 sound options (including silent)
 ## Installation
 
-### macOS — Homebrew
-```sh
+
 brew install --cask hrushik98/tap/termodoro
-```
+
 
 ### Windows — Scoop
 ```sh
