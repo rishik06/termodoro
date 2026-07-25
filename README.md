@@ -7,8 +7,6 @@ A minimalist terminal Pomodoro timer for focused work sessio
 - ✅ Pomodoro timer with focus + break sessions
 - ✅ 6 visual animations to choose from
 - ✅ 6 sound options (including silent)
-- ✅ Config presets (Classic, Short, Long, Custom)
-
 ## Installation
 
 ### macOS — Homebrew
